@@ -1,0 +1,53 @@
+<!Doctype html>
+<html lang="Fr">
+
+<!--L'en-tete du site (les informations qui s'affichent dans le navigateur)-->
+<head>
+	<meta charset="utf-8">
+	<title>Piatre Chérie</title>
+</head>
+
+<!--Le corps du site (les informations qui constituent le contenu du site)-->
+<body>
+
+	<header>
+		<hr>
+		<img src="logopc.png" width="250" height="100">
+		<br>
+		<hr>
+		<img src="vuesurmerpiatre.jpg" width="750" height="250">
+		<br>
+		<hr>
+	</header>
+	
+	<h2>Mission:</h2>
+	<p>La mission étant représentée la raison d'être de toute organisation et le coeur de ses activités. Piatre Chérie a donc pour mission: <br> "Mobiliser le milieu et rassembler toutes ses ressources <strong><em><mark>(Humaines, Matérielles, Financières et Technologiques)</mark></em></strong> afin de contribuer <br>au dévelloppement durable de la communauté Piatoise et d'améliorer les conditions de vie de toutes les Piatoise et de tous les Piatois, <br> et ce, en partenariat avec toutes les Piatoises et de tous les Piatois."</p>
+	
+	<h2>Vision:</h2>
+	<p>La vision présente un état futur et désirable de l'organisation et de son environnement.<br> Ainsi, "Piatre Chérie veut contribuer à faire de la zone et de son environnement une communauté où il fait bon de vivre. <br>Il veut mettre à profit sa capacité de rassembler et de Mobiliser toutes les Piatoises et tous les Piatois pour améliorer la qualité de vie dans la zone."</p>
+	
+	<h2>Objectifs:</h2>
+	<p>Ils présentent des engagements de l'organisation en termes d'actions à entreprendre. Ils sont spéciques, mésurables, réalisables, réalistes et d'une durée déterminée. <br>Ainsi Piatre Chérie, en termes d'actions à entreprendre, s'engage à: </p>
+	<ul>
+		<li>Construire des routes;</li>
+		<li>Donner accès à l'eau potable;</li>
+		<li>Donner accès à l'électricité;</li>
+		<li>Construction d'un centre de santé;</li>
+		<li>Accès à l'éducation;</li>
+		<li>Promouvoir le vivre ensemble;</li>
+		<li>Promouvoir le respect mutuel;</li>
+		<li>Sécurité dans la zone;</li>
+		<li>faire de Piatre un modèle</li>
+	</ul>
+</body>
+<br>
+	<br>
+<hr>
+
+<!--Le pieds du site (les informations qui apparaissent dans la partie inferieure du site)-->
+<footer>
+<p><center></cent><strong>Localisation:</strong><br><em>Piatre/Duval/Cotes-de-fer/Borgne/Nord/Haïti</em><br>piatrecherie@gmail.com/+50940342007<br><a href="Formulaire.html"><strong>Formulaire de contacts</strong></a> & <a href="gallerie.html"><strong>Gallerie</strong></a> & <a href="media.html"><strong>Multi-Média</strong></a></center></p>
+	<p><center><em><strong>2025 @ Tout droit réservé</strong></em></center></p>
+
+
+</footer>

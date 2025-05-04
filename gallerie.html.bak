@@ -1,0 +1,52 @@
+<!Doctype html>
+<html lang="Fr">
+
+<!--L'en-tete du site (les informations qui s'affichent dans le navigateur)-->
+<head>
+	<meta charset="utf-8">
+	<title>Piatre Chérie</title>
+</head>
+
+<!--Le corps du site (les informations qui constituent le contenu du site)-->
+<body>
+	<header>
+		<hr>
+		<a href="index.html"><img src="logopc.png" width="250" height="100"></a>
+		<br>
+		<hr>
+		<h1>Gallerie</h1>
+	</header>
+	<Table>
+		<thead>
+			<tr>
+				<td><img src="https://scontent.fpap3-2.fna.fbcdn.net/v/t1.6435-9/49390090_729029730801143_3857388842403233792_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=cf85f3&_nc_eui2=AeHmtdAy60tKj7wziprFymuDY5BffLdIFF1jkF98t0gUXTwDVBqITZrTERNTNBgQ5BcV9IJdrkM6WC6QxjgdVWUW&_nc_ohc=6NivMpbEbdUQ7kNvwHLcj2o&_nc_oc=AdlwqupOBTPGETmR1ELd15zPVOvvyRQvxFSknXSUM9Yc3L83ZIFjrZMSzqCEpyTJF68&_nc_zt=23&_nc_ht=scontent.fpap3-2.fna&_nc_gid=aRIq_7waXtwSsOj_jxOIJw&oh=00_AfGLxOztgfCJLO7QOTvYDF_HFDOgB8MsezgnyRrDu8yrUA&oe=683E599E" width="100" height="75"></img></td>
+				<td><img src="https://scontent.fpap3-2.fna.fbcdn.net/v/t1.6435-9/49202810_729030294134420_7373484314857570304_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=cf85f3&_nc_eui2=AeEizuq-b2c875TA32qU0Y80Sw_1LZoGl5NLD_UtmgaXk-OecKXqUxknJfHj6JVOe8xuvKFsJ7u38jdJcmQWSSqs&_nc_ohc=dvowxbC7-OwQ7kNvwEyEPsR&_nc_oc=AdlNy7YN9PIY_BMu2t96A-uLbY6F47bNzKbyVceeAm0EjP9Ja3LLnx-Z3pV9JeNpZGQ&_nc_zt=23&_nc_ht=scontent.fpap3-2.fna&_nc_gid=4rZFqQoZg0XMbGdMd5KWNg&oh=00_AfF1E3RKwMIiSdB_eJz5tyzreIcUZch-JBkBbzZNieT9qg&oe=683E632E" width="100" height="75"></img></td>
+				<td><img src="https://scontent.fpap3-2.fna.fbcdn.net/v/t1.6435-9/49206550_729029550801161_4850013719322689536_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=cf85f3&_nc_eui2=AeFDrdzpm2i2YYeiCy_j5EvLYh8slNxWVBJiHyyU3FZUErxOrRxjmSUkgF6Dy5NVbq_W4U5yUyGPVF2nJAeQw4zk&_nc_ohc=NC_p6rEdo-AQ7kNvwGB52CD&_nc_oc=Adk-fn5pKSjOcAYjFpNQeD9Cuee3Htn6kyyYyuP9-ZlVinfAnMMigqoj57bDIucjtjc&_nc_zt=23&_nc_ht=scontent.fpap3-2.fna&_nc_gid=wSlD4njuMQHbWE7Ax13MWQ&oh=00_AfFr9buLOa7i4cV49rDaCjTYoDZr1iuS_2Gv5I7AcvG_mg&oe=683E3ECA" width="100" height="75"></img></td>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td><img src="image1.jpg" width="100" height="75"></img></td>
+				<td><img src="image2.jpg" width="100" height="75"></img></td>
+				<td><img src="image3.jpg" width="100" height="75"></img></td>	
+			</tr>
+			<tr>
+				<td><img src="image4.jpg" width="100" height="75"></img></td>
+				<td><img src="image5.jpg" width="100" height="75"></img></td>
+				<td><img src="image6.jpg" width="100" height="75"></img></td>	
+			</tr>
+		</tbody>
+	</Table>
+</body>
+<br>
+	<br>
+		<br>
+			<br>
+<hr>
+<!--Le pieds du site (les informations qui apparaissent dans la partie inferieure du site)-->
+<footer>
+<p><center></cent><strong>Localisation:</strong><br><em>Piatre/Duval/Cotes-de-fer/Borgne/Nord/Haïti</em><br>piatrecherie@gmail.com/+50940342007</center></p>
+	<p><center><em><strong>2025 @ Tout droit réservé</strong></em></center></p>
+
+
+</footer>
